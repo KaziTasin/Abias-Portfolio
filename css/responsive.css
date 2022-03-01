@@ -1,0 +1,376 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  #banner .banner-right h1 {
+    font-size: 40px;
+    line-height: 24px;
+  }
+  #banner .banner-right h3 {
+    font-size: 18px;
+    margin: 30px 0;
+  }
+  #banner .Creative-text {
+    right: 0;
+  }
+  #banner .banner-right h3::after {
+    left: -24px;
+    width: 32px;
+  }
+  nav ul li .dropdown {
+    position: absolute;
+    right: 0 !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+  #about h2 {
+    font-size: 50px;
+    text-align: left;
+    padding: 40px 0;
+  }
+  #about p {
+    line-height: 30px;
+    padding-bottom: 15px;
+  }
+  #service h2 {
+    font-size: 45px;
+    text-align: left;
+  }
+  #skill .skill-left img {
+    width: 100%;
+  }
+  #skill::after {
+    height: 169px;
+    top: 160px;
+  }
+  #skill {
+    padding: 10px 0;
+  }
+  #skill .skill-right h2 {
+    font-size: 45px;
+  }
+  #portfolio h2 {
+    font-size: 40px;
+    text-align: left;
+    margin-bottom: 25px;
+  }
+  #feed {
+    height: 1400px;
+  }
+  .panel {
+    margin-bottom: 200px;
+  }
+  #blog {
+    padding: 0;
+    padding-bottom: 60px;
+  }
+  #portfolio {
+    padding: 36px 0;
+  }
+  #blog h2 {
+    font-size: 45px;
+    text-align: left;
+  }
+  #blog .blog-item {
+    margin: 30px 0;
+  }
+  #footer .form .ppp {
+    margin-right: 20px;
+  }
+  #footer .f-icon i {
+    font-size: 22px;
+    margin: 0 10px;
+  }
+  #footer .up {
+    top: -82px;
+  }
+
+  /* ============================================================= */
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  #banner {
+    padding-top: 20px !important;
+  }
+  #banner .banner-right h1 {
+    font-size: 38px;
+    line-height: 24px;
+  }
+  #banner .banner-right h3 {
+    font-size: 18px;
+    margin: 30px 0;
+  }
+  #banner .Creative-text {
+    right: -140px;
+    bottom: -42px;
+  }
+  #banner .banner-right h3::after {
+    left: -24px;
+    width: 32px;
+  }
+  nav ul li .dropdown {
+    position: absolute;
+    right: 0 !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+  #about .oovov-light {
+    right: -213px;
+  }
+  #about h2 {
+    font-size: 50px;
+    text-align: left;
+    padding: 40px 0;
+  }
+  #about p {
+    line-height: 30px;
+    padding-bottom: 15px;
+  }
+  #service .minimal-light {
+    top: -141px;
+    left: 212px;
+  }
+  #service h2 {
+    font-size: 45px;
+    text-align: left;
+  }
+  #skill .skill-left img {
+    width: 100%;
+  }
+  #skill::after {
+    height: 296px;
+    top: 270px;
+  }
+  #skill {
+    padding: 10px 0;
+  }
+  #skill .skill-right h2 {
+    font-size: 45px;
+  }
+  #portfolio h2 {
+    font-size: 40px;
+    text-align: left;
+    margin-bottom: 25px;
+  }
+  
+  #feed {
+    height: 1000px;
+  }
+  .panel {
+    margin-bottom: 200px;
+  }
+  #feed h2 {
+    font-size: 40px;
+    text-align: left;
+  }
+  #feed .feed-item {
+    margin-bottom: 70px;
+  }
+  #blog h2 {
+    font-size: 45px;
+    text-align: left;
+  }
+  #blog .blog-item {
+    margin: 30px 0;
+  }
+  #footer .form .ppp {
+    margin-right: 45px;
+  }
+  #footer .f-icon i {
+    font-size: 22px;
+    margin: 0 10px;
+  }
+  #footer .up {
+    top: -82px;
+  }
+
+  /* ============================================================= */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #banner {
+    padding-top: 20px !important;
+  }
+  #banner .banner-right h1 {
+    font-size: 45px;
+    line-height: 24px;
+  }
+  #banner .banner-right h3 {
+    font-size: 20px;
+    margin: 30px 0;
+  }
+  #banner .Creative-text {
+    right: -140px;
+    bottom: -42px;
+  }
+  #banner .banner-right h3::after {
+    left: -24px;
+    width: 32px;
+  }
+  nav ul li .dropdown {
+    position: absolute;
+    right: 0 !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+  #about .oovov-light {
+    right: -213px;
+  }
+  #about h2 {
+    font-size: 60px;
+    text-align: left;
+    padding: 40px 0;
+  }
+  #about p {
+    line-height: 30px;
+    padding-bottom: 15px;
+  }
+  #service .minimal-light {
+    top: -141px;
+    left: -118px;
+    z-index: -1;
+  }
+  #service {
+    z-index: 2;
+  }
+  #service h2 {
+    font-size: 55px;
+    text-align: left;
+  }
+  #skill .skill-left img {
+    width: 100%;
+  }
+  #skill::after {
+    height: 207px;
+    top: 165px;
+    left: -28px;
+  }
+  #skill {
+    padding: 10px 0;
+  }
+  #skill .skill-right h2 {
+    font-size: 45px;
+  }
+  #portfolio h2 {
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  #feed h2 {
+    font-size: 65px;
+    text-align: center;
+  }
+  #feed .feed-item {
+    margin-bottom: 70px;
+  }
+  .box1 {
+	padding: 50px 0;
+}
+  #blog h2 {
+    font-size: 45px;
+    text-align: left;
+  }
+  #blog .blog-item {
+    margin: 30px 0;
+  }
+  #footer .form .ppp {
+    margin-right: 45px;
+  }
+  #footer .f-icon i {
+    font-size: 22px;
+    margin: 0 10px;
+  }
+  #footer .up {
+    top: -82px;
+  }
+
+  /* ============================================================= */
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #banner {
+    padding-top: 20px !important;
+  }
+  #banner .banner-right h1 {
+    font-size: 55px;
+    line-height: 24px;
+  }
+  #banner .banner-right h3 {
+	font-size: 25px;
+	margin: 30px 0;
+}
+#banner .Creative-text {
+	right: -245px;
+	bottom: -42px;
+}
+  #banner .banner-right h3::after {
+    left: -24px;
+    width: 32px;
+  }
+
+  #about .oovov-light {
+    right: -213px;
+  }
+  #about h2 {
+    font-size: 60px;
+    text-align: center;
+    padding: 40px 0;
+  }
+  #about p {
+    line-height: 30px;
+    padding-bottom: 15px;
+  }
+  #service .minimal-light {
+    top: -141px;
+    left: -118px;
+    z-index: -1;
+  }
+  #service {
+    z-index: 2;
+  }
+  #service h2 {
+    font-size: 55px;
+    text-align: center;
+  }
+  #skill .skill-left img {
+    width: 100%;
+  }
+  #skill::after {
+    height: 207px;
+    top: 165px;
+    left: -28px;
+  }
+  #skill {
+    padding: 10px 0;
+  }
+  #skill .skill-right h2 {
+    font-size: 45px;
+  }
+  #portfolio h2 {
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  #feed h2 {
+    font-size: 65px;
+    text-align: center;
+  }
+  #feed .feed-item {
+    margin-bottom: 70px;
+  }
+  .box1 {
+	padding: 50px 0;
+}
+  #blog h2 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #blog .blog-item {
+    margin: 30px 0;
+  }
+  #footer .form .ppp {
+    margin-right: 45px;
+  }
+  #footer .f-icon i {
+    font-size: 22px;
+    margin: 0 10px;
+  }
+  #footer .up {
+    top: -82px;
+  }
+
+  /* ============================================================= */
+}
